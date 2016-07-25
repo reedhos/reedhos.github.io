@@ -1,4 +1,17 @@
+body, h2 {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #ff1100;
+}
 .header {
-	color: #999999;
-	padding: 0 auto 0 auto;
+	background-color: #ff3300;
+	text-align: center;
+}
+.dropdown-content {
+	display: none;
 }
